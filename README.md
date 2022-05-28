@@ -37,3 +37,4 @@ return ensemble_preds
 ***
 ## Note
 ***Models are trained on 10% of actual data.*** 
+***[Link to Quote Dataset](https://www.kaggle.com/datasets/manann/quotes-500k)***
